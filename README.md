@@ -1,5 +1,4 @@
-# book_plus
-Library Management System
+# Book Plus Library Management System
 
 README - Book Plus Web Application Setup
 
