@@ -69,6 +69,7 @@ npm run serve
 
 ->> Run the Application Step-3: Start the Task Scheduling by running the following command in the command prompt or terminal:
 
+!! Redis Must Be Installed - https://redis.io/docs/latest/operate/oss_and_stack/install/install-redis/
 celery -A tasks worker --loglevel=info 
 
 ->> Access the Application: Open your preferred web browser and type localhost:5000 in the address bar. The web application should now be running, and you can interact with it.
