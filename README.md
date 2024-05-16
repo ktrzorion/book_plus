@@ -2,6 +2,8 @@
 
 README - Book Plus Web Application Setup
 
+Refer to the tutorial if you hate reading -> https://drive.google.com/file/d/15SGeTkKg_w9A50JzIn1XJbBFTS_Bsf5A/view?usp=sharing
+
 This guide provides step-by-step instructions on how to set up and run this Flask web application. Follow the steps below to get started:
 
 -> Prerequisites
