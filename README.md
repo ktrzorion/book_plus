@@ -6,6 +6,8 @@ Refer to the tutorial if you hate reading -> https://drive.google.com/file/d/15S
 
 Node Module Folder -> https://drive.google.com/file/d/1_-34NGbJtOtQmThIrz5TX7cUnf9RGvMF/view?usp=drive_link
 
+**NOTE : YOU HAVE TO ADD NODE_MODULE FOLDER IN book_plus ON SAME LEVEL AS public AND OTHER FOLDERS.
+
 This guide provides step-by-step instructions on how to set up and run this Flask web application. Follow the steps below to get started:
 
 -> Prerequisites
